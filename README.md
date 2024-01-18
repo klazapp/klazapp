@@ -1,3 +1,1 @@
-Hello! I am Klaus and I am a mobile game developer with experience in C# and Unity.
-I am incredibly passionate about making games and am constantly coming up with new game ideas to develop.
-I have singlehandedly prototyped, developed, and published close to 20 apps on both iOS and GooglePlay app stores.
+Hello! We are Klazapp, a dedicated team focused on mobile application and game development, with a strong foundation in C# and Unity. Our passion for game creation drives us, and we're always exploring new ideas for games. Though we're a small team, we've managed to bring several of our projects to life, successfully launching close to 20 apps on both the iOS and Google Play app stores. Our journey in the world of mobile gaming is a continuous learning experience, and we're committed to growing and improving with each project we undertake.

@@ -18,7 +18,7 @@
 
 ### I build software — and take responsibility for getting it delivered.
 
-I'm **Klaus Vinn, PMP**, a software engineering and technical-delivery leader based in Singapore. My work spans enterprise web platforms, high-performance C#/Unity systems, reusable developer tools and mobile products.
+I'm **Klaus**, a software engineering and technical-delivery leader based in Singapore. My work spans enterprise web platforms, high-performance C#/Unity systems, reusable developer tools and mobile products.
 
 The thread through all of it: **make complex behaviour understandable, make repeated work reusable, and make delivery dependable.**
 

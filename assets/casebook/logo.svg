@@ -1,4 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
-<title id="title">Klaus — K monogram</title><desc id="desc">Klaus — K monogram</desc>
-<rect width="256" height="256" fill="#0d1117" rx="128"/><path d="M79 70V176L181 73" fill="none" stroke="#e6edf3" stroke-width="12" stroke-linecap="square" stroke-linejoin="miter"/><path d="M133 143L159 169" fill="none" stroke="#9aa8b7" stroke-width="11"/><circle cx="177" cy="189" r="8" fill="#e38b5b"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="220" viewBox="0 0 720 220"><rect width="720" height="220" fill="#0D1117"/><path d="M58 43 V177" stroke="#E6EDF3" stroke-width="22"/><path d="M77 116 L147 46" stroke="#E6EDF3" stroke-width="22"/><path d="M96 105 L157 166" stroke="#FF7A1A" stroke-width="18"/><text x="200" y="113" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="60" font-weight="800" fill="#E6EDF3">KLAUS</text><text x="410" y="113" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="60" font-weight="800" fill="#FF7A1A">/</text></svg>

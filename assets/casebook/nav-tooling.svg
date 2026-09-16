@@ -1,4 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="140" height="44" viewBox="0 0 140 44" role="img" aria-labelledby="title desc">
-<title id="title">Tooling — follow link</title><desc id="desc">Tooling — follow link</desc>
-<rect x="0.5" y="0.5" width="139" height="43" rx="4" fill="#0d1117" stroke="#303b47"/><text x="13" y="28" fill="#e6edf3" font-size="15" font-weight="400" font-family="'DejaVu Sans Mono',Consolas,monospace">Tooling</text><text x="117" y="28" fill="#e38b5b" font-size="17" font-weight="400" font-family="'DejaVu Sans Mono',Consolas,monospace">→</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="64" viewBox="0 0 230 64" role="img" aria-label="Tooling"><rect width="230" height="64" fill="#0D1117"/><style>.m{font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace}</style><rect x="1" y="1" width="228" height="62" rx="7" fill="#0F141B" stroke="#30363D" stroke-width="2"/><text x="22" y="39" class="m" fill="#E6EDF3" font-size="22" font-weight="600">Tooling</text><text x="192" y="40" class="m" fill="#FF7A1A" font-size="25">→</text></svg>
